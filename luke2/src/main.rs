@@ -1,3 +1,6 @@
+// Denne koden sjekker alle, men man kunne egentlig bare gjort
+// (antall klikk - antal klakk) / 7
+// Og flooret hvis det ikke er et heltall
 use std::fs;
 
 fn main() {
