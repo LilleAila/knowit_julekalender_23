@@ -59,12 +59,12 @@ fn main() {
             d20_idx += 1;
             // Hvis feil svar, kanskje attack også må regnes ut
             // uansett om den treffer eller ikke
-            if acc < julenisse_acc { continue }
             let attack =
                 std::cmp::max(d6[d6_idx%d6.len()], d6[(d6_idx+1)%d6.len()])
                 + 2 + d4[d4_idx % d4.len()];
             d6_idx += 2;
             d4_idx += 1;
+            if acc < julenisse_acc { continue }
             julenisse -= attack as isize;
         }
     }

@@ -1,1 +1,26 @@
 # Løsningene mine for knowit julekalender 2023
+
+- [x] Luke 1: 37196
+- [x] Luke 2: 393
+- [x] Luke 3: 4536319363554735560
+- [x] Luke 4: 969
+- [x] Luke 5: 642344
+- [x] Luke 6: 160
+- [x] Luke 7: 23111
+- [x] Luke 8: jdhosoofohfsnmjol
+- [x] Luke 9: 2786
+- [x] Luke 10: 165
+- [x] Luke 11: 73989
+- [x] Luke 12: ondskapen trives best i skyggene av likegyldighet og taushet.
+- [x] Luke 13: 5124
+- [x] Luke 14: 6264
+- [ ] Luke 15: askepott
+- [x] Luke 16: 311787
+- [ ] Luke 17: t-rex
+- [x] Luke 18: 4033908
+- [ ] Luke 19: #847e05
+- [ ] Luke 20: 2536423
+- [x] Luke 21: 902
+- [ ] Luke 22: 3844
+- [ ] Luke 23: 21312
+- [x] Luke 24: haensupergodjulogetgodtnyttår

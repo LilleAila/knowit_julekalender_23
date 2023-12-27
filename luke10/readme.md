@@ -18,10 +18,12 @@ FOU-Alvene på Nordpolen har laget en sjokoladeplatemaskin som produserer sjokol
 Eksempel
 
 0001110010000100100001001000010011111100100001001000010000000100 representerer denne sjokoladeplata:
+![Eksempel 1](example.png)
 
 Om den kuttes langs den røde linja ser vi at vi får to sammenhengende plater med like mange ruter.
 
 1110101011111110110010001011100011110000100110000001100000000000 gir oss denne plata:
+![Eksempel 2](example2.png)
 
 Delt langs den røde linja gir også denne to plater med like mange ruter. Legg merke til at dette telles kun som ett kutt, selv om det passerer gjennom et hull.
 

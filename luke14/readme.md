@@ -8,6 +8,6 @@ I [denne fila](src/push.txt) ligg pushup-setta til julenissen loggført. Kva er 
 
 Døme
 
-Vi har setta 16 3 1 2 9 8 12 14 19 21 20 11 2 4 3 1 7 9
+Vi har setta `16 3 1 2 9 8 12 14 19 21 20 11 2 4 3 1 7 9`
 
-For desse setta ser vi at sekvensen 8 12 14 19 21 20 11 2, som aukar til ein topp på 21, for å så minke er den lengste slike serien. Denne summerar til 107, som då er svaret.
+For desse setta ser vi at sekvensen `8 12 14 19 21 20 11 2`, som aukar til ein topp på `21`, for å så minke er den lengste slike serien. Denne summerar til `107`, som då er svaret.
